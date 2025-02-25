@@ -1,33 +1,37 @@
 # Hi, I'm Phạm Nguyễn Thuận 👋  
 **Frontend | Fullstack | Python Developer**  
 
-I'm a passionate developer with over 3 years of experience crafting scalable, user-focused web applications. I enjoy tackling complex challenges, mastering new technologies, and using innovative tools to bring ideas to life. Welcome to my GitHub—explore my projects and let’s build something amazing together!
+I'm a dedicated Fullstack Developer with over 3 years of experience building scalable, user-centric web applications. Currently, I’m working at Boostech, bridging Frontend and Backend to create efficient solutions for material management and procurement. I love solving complex problems, exploring new tech, and delivering impactful products. Check out my projects below!
 
 ---
 
 ## About Me  
 - 🌍 Based in Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh City, Vietnam  
-- 💻 Specializing in Fullstack development with a knack for 3D interfaces and microservices  
-- 🎯 Goal: Create impactful products while continuously evolving my skills  
+- 💻 Specializing in Fullstack development with expertise in 3D interfaces, microservices, and modern frameworks  
+- 🎯 Goal: Build innovative solutions while staying ahead in the tech world  
 - 📫 Reach me at: [thuandevelop@gmail.com](mailto:thuandevelop@gmail.com) | (+84) 0909275913  
 
 ---
 
 ## Tech Stack  
-Here’s what I work with:  
+Here’s my toolkit:  
 
 | **Category**      | **Technologies**                          |  
 |--------------------|-------------------------------------------|  
-| **Frontend**      | HTML, CSS, JavaScript, Vue.js, Nuxt.js, Vuetify, Three.js |  
-| **Backend**       | Node.js, Nest.js, Django, Flask, Python   |  
-| **Databases**     | MySQL, MongoDB, MariaDB, Mongoose         |  
+| **Frontend**      | HTML, CSS, JavaScript, Vue.js, Nuxt.js, Next.js, Vuetify, Three.js |  
+| **Backend**       | Node.js, Nest.js, Java Spring, Django, Flask, Python   |  
+| **Databases**     | MySQL, MongoDB, PostgreSQL, MariaDB, Mongoose         |  
 | **DevOps**        | Docker, Kubernetes, Google Cloud Platform |  
 | **Others**        | RESTful APIs, GraphQL, Raspberry Pi, ESP, Arduino |
 
 ---
 
 ## Featured Projects  
-Check out some of my work:  
+
+### [Boostech - Material & Procurement Management](https://github.com/thuanpham113/boostech-project)  
+- **Description**: A platform for managing materials and purchase requests across projects, connecting buyers and sellers with quotation workflows.  
+- **Tech**: Next.js (Frontend), Java Spring & PostgreSQL (Backend)  
+- **Highlights**: Developed a responsive Frontend with Next.js and integrated it with a robust Java Spring Backend for seamless data handling.  
 
 ### [Synode.ai](https://github.com/thuanpham113/synode-ai)  
 - **Description**: A 3D step-by-step guide platform with text-to-speech and product customization features.  
@@ -44,13 +48,16 @@ Check out some of my work:
 - **Tech**: Nuxt.js, Vuetify, Three.js, Nest.js, Google Cloud Platform  
 - **Highlights**: Delivered a high-performance Frontend and reliable Backend.  
 
-*Note*: Replace the project links with actual repository URLs once you’ve uploaded them to GitHub!
+*Note*: Update the project links with actual repository URLs once available!
 
 ---
 
 ## Experience  
+- **Fullstack Developer @ Boostech** (Present – 02/2025 onwards)  
+  - Building a material management and procurement platform using Next.js for the Frontend and Java Spring with PostgreSQL for the Backend.  
+  - Connecting buyers and sellers with streamlined quotation and request workflows.  
 - **Fullstack Developer @ Plogg Co. Ltd** (09/2021 – 04/2024)  
-  - Built PWAs and microservices using Nuxt.js, Nest.js, and GCP.  
+  - Developed PWAs and microservices using Nuxt.js, Nest.js, and GCP.  
 - **Intern @ Bach Viet Art and Technology Co. Ltd** (09/2020 – 01/2021)  
   - Designed mechanical systems and executed on-site projects.  
 - **Intern @ Viet Son Machine Manufacturing Co. Ltd** (02/2019 – 05/2020)  
@@ -74,4 +81,4 @@ Check out some of my work:
 - 🌐 GitHub: [github.com/thuanpham113](https://github.com/thuanpham113)  
 - 📞 Phone: (+84) 0909275913  
 
-Feel free to explore my repositories, fork my projects, or reach out for collaboration opportunities!
+Feel free to browse my repositories, fork my projects, or drop me a message for collaboration ideas!
