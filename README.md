@@ -19,9 +19,9 @@ Here’s my toolkit:
 | **Category**      | **Technologies**                          |  
 |--------------------|-------------------------------------------|  
 | **Frontend**      | HTML, CSS, JavaScript, Vue.js, Nuxt.js, Next.js, Vuetify, Three.js |  
-| **Backend**       | Node.js, Nest.js, Java Spring, Django, Flask, Python   |  
+| **Backend**       | Node.js, Python, Go, Java   |  
 | **Databases**     | MySQL, MongoDB, PostgreSQL, MariaDB, Mongoose         |  
-| **DevOps**        | Docker, Kubernetes, Google Cloud Platform |  
+| **DevOps**        | Docker, Google Cloud Platform |  
 | **Others**        | RESTful APIs, GraphQL, Raspberry Pi, ESP, Arduino |
 
 ---
