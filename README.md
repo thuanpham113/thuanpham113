@@ -18,7 +18,7 @@ Here’s my toolkit:
 
 | **Category**      | **Technologies**                          |  
 |--------------------|-------------------------------------------|  
-| **Frontend**      | HTML, CSS, JavaScript, Vue.js, Nuxt.js, Next.js, Vuetify, Three.js |  
+| **Frontend**      | HTML, CSS, JavaScript, Vue.js, Nuxt.js, Next.js, Vuetify, Three.js, Angular |  
 | **Backend**       | Node.js, Python, Go, Java   |  
 | **Databases**     | MySQL, MongoDB, PostgreSQL, MariaDB, Mongoose         |  
 | **DevOps**        | Docker, Google Cloud Platform |  
