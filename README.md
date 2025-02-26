@@ -1,5 +1,5 @@
 # Hi, I'm Phạm Nguyễn Thuận 👋  
-**Frontend | Fullstack | Python Developer**  
+**Fullstack | Frontend | Java | Go Developer**  
 
 I'm a dedicated Fullstack Developer with over 3 years of experience building scalable, user-centric web applications. Currently, I’m working at Boostech, bridging Frontend and Backend to create efficient solutions for material management and procurement. I love solving complex problems, exploring new tech, and delivering impactful products. Check out my projects below!
 
