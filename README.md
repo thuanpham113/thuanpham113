@@ -34,9 +34,12 @@ Here’s my toolkit:
 - **Highlights**: Developed a responsive Frontend with Next.js and integrated it with a robust Java Spring Backend for seamless data handling.  
 
 ### [Synode.ai](https://github.com/thuanpham113/synode-ai)  
-- **Description**: A 3D step-by-step guide platform with text-to-speech and product customization features.  
+- **Description**: A 3D application developed for Synode Canada, designed to provide step-by-step assembly guides and product instructions using interactive 3D models, complete with text-to-speech and customization features. 
 - **Tech**: Nuxt.js, Vue.js, Vuetify, Three.js, Nest.js, Google Cloud Platform  
-- **Highlights**: Built interactive 3D interfaces and scalable Backend APIs.  
+- **Highlights**:
+  - Leveraged Three.js extensively to load, render, and animate 3D files, creating an intuitive user experience for product assembly.
+  - Built a responsive Frontend with Nuxt.js, integrating it seamlessly with Backend APIs on Nest.js for real-time data and scalability.
+  - My deepest involvement was here—mastered 3D file handling and optimized performance for complex models.
 
 ### [Rely for Plogg.ca](https://github.com/thuanpham113/rely-plogg)  
 - **Description**: Microservices architecture powering Progressive Web Apps for Plogg.ca.  
