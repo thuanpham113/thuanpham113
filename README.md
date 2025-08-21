@@ -56,7 +56,8 @@ Here’s my toolkit:
 ---
 
 ## Experience  
-- **Fullstack Developer @ Boostech** (Present – 02/2025 onwards)  
+- **Fullstack Developer @ kidsplaza** (03/2025 – 08/2025)
+- **Fullstack Developer @ Boostech** (06/24 – 03/2025)  
   - Building a material management and procurement platform using Next.js for the Frontend and Java Spring with PostgreSQL for the Backend.  
   - Connecting buyers and sellers with streamlined quotation and request workflows.  
 - **Fullstack Developer @ Plogg Co. Ltd** (09/2021 – 04/2024)  
