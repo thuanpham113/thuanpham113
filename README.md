@@ -1,8 +1,8 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="320" align="center" style="vertical-align: top;">
+    <td width="320" align="center" style="vertical-align: top; border: solid transparent;">
       <img src="https://github.com/user-attachments/assets/b3483ff5-bafb-404e-87f0-e2737e38c36c"
-           width="300" />
+           width="300" style="border-radius: 50%"" />
     </td>
     <td style="vertical-align: top; padding-left: 15px; border: solid transparent;">
       <h1 style="margin: 0;">Phạm Nguyễn Thuận</h1>
@@ -11,13 +11,13 @@
       </p>
       <p style="margin: 0;">
         Ho Chi Minh City, Vietnam<br>
-        <a href="mailto:thuandevelop@gmail.com">thuandevelop@gmail.com</a> | (+84) 0909275913<br>
+        <a href="mailto:thuandevelop@gmail.com">thuandevelop@gmail.com</a> |  
+        <a href="tel:+84909275913">(+84) 0909275913</a> |
         <a href="https://github.com/thuanpham113">github.com/thuanpham113</a>
       </p>
     </td>
   </tr>
 </table>
-
 
 ---
 
