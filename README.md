@@ -1,15 +1,23 @@
-<div>
-  <div width="300" align="center">
-    <img src="https://github.com/user-attachments/assets/b3483ff5-bafb-404e-87f0-e2737e38c36c" width="300" style="border-radius: 50%;"/>
-  </div>
-  <div>
-    <h1>Phạm Nguyễn Thuận</h1>
-    <strong>Fullstack Developer | 3D Web Applications Specialist</strong><br><br>
-    Ho Chi Minh City, Vietnam<br>
-    <a href="mailto:thuandevelop@gmail.com">thuandevelop@gmail.com</a> | (+84) 0909275913<br>
-    <a href="https://github.com/thuanpham113">github.com/thuanpham113</a>
-  </div>
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="320" align="center" style="vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/b3483ff5-bafb-404e-87f0-e2737e38c36c"
+           width="300" />
+    </td>
+    <td style="vertical-align: top; padding-left: 15px; border: solid transparent;">
+      <h1 style="margin: 0;">Phạm Nguyễn Thuận</h1>
+      <p style="margin: 4px 0 10px 0;">
+        <strong>Fullstack Developer | 3D Web Applications Specialist</strong>
+      </p>
+      <p style="margin: 0;">
+        Ho Chi Minh City, Vietnam<br>
+        <a href="mailto:thuandevelop@gmail.com">thuandevelop@gmail.com</a> | (+84) 0909275913<br>
+        <a href="https://github.com/thuanpham113">github.com/thuanpham113</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
