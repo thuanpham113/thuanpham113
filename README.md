@@ -1,7 +1,15 @@
-# Phạm Nguyễn Thuận
-**Fullstack Developer | 3D Web Applications Specialist**
-
-Ho Chi Minh City, Vietnam | thuandevelop@gmail.com | (+84) 0909275913 | github.com/thuanpham113
+<div>
+  <div width="300" align="center">
+    <img src="https://github.com/user-attachments/assets/b3483ff5-bafb-404e-87f0-e2737e38c36c" width="300" style="border-radius: 50%;"/>
+  </div>
+  <div>
+    <h1>Phạm Nguyễn Thuận</h1>
+    <strong>Fullstack Developer | 3D Web Applications Specialist</strong><br><br>
+    Ho Chi Minh City, Vietnam<br>
+    <a href="mailto:thuandevelop@gmail.com">thuandevelop@gmail.com</a> | (+84) 0909275913<br>
+    <a href="https://github.com/thuanpham113">github.com/thuanpham113</a>
+  </div>
+</div>
 
 ---
 
