@@ -11,9 +11,9 @@
       </p>
       <p style="margin: 0;">
         Ho Chi Minh City, Vietnam<br>
-        <a href="mailto:thuandevelop@gmail.com">thuandevelop@gmail.com</a> |  
-        <a href="tel:+84909275913">(+84) 0909275913</a> |
-        <a href="https://github.com/thuanpham113">github.com/thuanpham113</a>
+        <a href="mailto:thuandevelop@gmail.com">thuandevelop@gmail.com</a> |  <br>
+        <a href="tel:+84909275913">(+84) 0909275913</a> | <br>
+        <a href="https://github.com/thuanpham113">github.com/thuanpham113</a> | <br>
         <a href="https://thuanpham.work/">thuanpham.work/</a>
       </p>
     </td>
